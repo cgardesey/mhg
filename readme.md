@@ -39,7 +39,10 @@ Before setting up the project, make sure you have the following installed:
 
 ## Installation
 
-1. Clone this repository to your local machine:
+- Clone this repository to your local machine:
+  ```bash
+     git clone https://github.com/cgardesey/mhg.git
+- Install the dependencies:
+   ```bash
+      composer install
 
-```bash
-git clone https://github.com/yourusername/patients-records-backend.git
