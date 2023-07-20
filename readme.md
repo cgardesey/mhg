@@ -31,11 +31,10 @@ The project follows best practices and utilizes Laravel's features to ensure a s
 
 Before setting up the project, make sure you have the following installed:
 
-- PHP (Version X.X.X)
-- Composer (Version X.X.X)
-- MySQL (Version X.X.X)
-- Laravel (Version X.X.X)
-- Laravel Passport (Version X.X.X)
+- PHP (Version 7.4.X)
+- Composer
+- MySQL
+- Laravel
 - Other dependencies as listed in the `composer.json` file.
 
 ## Installation
