@@ -45,4 +45,41 @@ Before setting up the project, make sure you have the following installed:
 - Install the dependencies:
    ```bash
       composer install
+- Create a .env file:
+   ```bash
+      cp .env.example .env
+- Generate the application key:
+   ```bash
+      php artisan key:generate
+- Install the dependencies:
+   ```bash
+      composer install
+- Set up your database credentials in the .env file:
+   ```bash
+      DB_CONNECTION=mysql
+      DB_HOST=127.0.0.1
+      DB_PORT=3306
+      DB_DATABASE=your_database_name
+      DB_USERNAME=your_database_username
+      DB_PASSWORD=your_database_password
+- Run the database migrations:
+   ```bash
+      php artisan migrate
+- Start the development server:
+   ```bash
+      php artisan serve
+The backend server will be running at http://localhost:8000.
+
+## Contributing
+Contributions to this project are welcome. If you would like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test them thoroughly.
+4. Submit a pull request with a clear description of your changes.
+
+If you're looking to integrate with an android based project, make sure to check out the the repository corresponding to the [android project](https://github.com/cgardesey/MedicalHealthGard) for detailed instructions.
+
+## License
+This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute this project as needed.
+
 
