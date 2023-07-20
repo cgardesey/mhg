@@ -1,8 +1,5 @@
 # Backend Laravel Project for Managing Patients' Records
 
-![ic_launcher-web](https://github.com/cgardesey/mhg/assets/10109354/59df1f07-52b3-493e-8af4-39d9c4d31989)
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)
