@@ -6,9 +6,6 @@
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -20,12 +17,9 @@ The project follows best practices and utilizes Laravel's features to ensure a s
 
 ## Features
 
-- Authentication: Secure user registration and login with JWT-based authentication.
-- Patients Management: CRUD operations for managing patients' information.
-- Appointments: Schedule, view, and manage appointments for doctors and patients.
-- Medical Records: Keep track of patients' medical history, diagnoses, and treatments.
-- Admin Dashboard: Provide an admin dashboard to manage doctors and user roles.
-- API Endpoints: Well-documented API endpoints for easy integration with the frontend or other applications.
+- **Patients Management**: CRUD operations for managing patients' information.
+- **Medical Records**: Keep track of patients' medical history, diagnoses, and treatments.
+- **API Endpoints**: API endpoints for easy integration with the frontend or other applications.
 
 
 ## Prerequisites
