@@ -75,6 +75,6 @@ Contributions to this project are welcome. If you would like to contribute, plea
 If you're looking to integrate with an android based project, make sure to check out the the repository corresponding to the [android project](https://github.com/cgardesey/MedicalHealthGard) for detailed instructions.
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute this project as needed.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute this project as needed.
 
 
